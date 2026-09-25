@@ -33,6 +33,7 @@
 
 ## Core Concepts
 
+* [Filecoin for Agents](core-concepts/filecoin-for-agents.md)
 * [Filecoin Virtual Machine](core-concepts/filecoin-virtual-machine/README.md)
   * [Actors](core-concepts/filecoin-virtual-machine/actors.md)
   * [Addresses](core-concepts/filecoin-virtual-machine/addresses.md)
@@ -87,6 +88,7 @@
 * [Cookbook](build/cookbook/README.md)
   * [Store data](build/cookbook/store-data.md)
   * [Retrieve data](build/cookbook/retrieve-data.md)
+  * [Real World Assets (RWAs)](build/cookbook/rwa-reference-architecture.md)
   * [Filecoin Pin](build/cookbook/filecoin-pin/README.md)
     * [Getting Started](build/cookbook/filecoin-pin/getting-started.md)
     * [Migrating IPFS pins to Filecoin Onchain Cloud](build/cookbook/filecoin-pin/migrate-ipfs-pins/README.md)
@@ -145,7 +147,7 @@
   * [Industry](storage-providers/core-competencies/industry.md)
 * [PDP](storage-providers/pdp/README.md)
   * [About PDP](storage-providers/pdp/about.md)
-  * [Install & Run PDP](storage-providers/pdp/install-and-run-pdp.md)
+  * [Run a PDP provider](storage-providers/pdp/install-and-run-pdp.md)
 
 ## Networks & Tools
 
